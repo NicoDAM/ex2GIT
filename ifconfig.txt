@@ -31,3 +31,6 @@ wlan0     Link encap:Ethernet  direcciónHW 2c:33:7a:42:4d:7f
           colisiones:0 long.colaTX:1000 
           Bytes RX:0 (0.0 B)  TX bytes:0 (0.0 B)
 
+
+17/05/2016 14:03
+
