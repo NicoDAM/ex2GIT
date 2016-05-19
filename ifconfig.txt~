@@ -1,0 +1,33 @@
+docker0   Link encap:Ethernet  direcciónHW 56:84:7a:fe:97:99  
+          Direc. inet:172.17.42.1  Difus.:0.0.0.0  Másc:255.255.0.0
+          ACTIVO DIFUSIÓN MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:0 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:0 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:0 
+          Bytes RX:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+eth0      Link encap:Ethernet  direcciónHW 38:63:bb:a9:ad:4e  
+          Direc. inet:10.1.83.85  Difus.:10.1.83.255  Másc:255.255.255.0
+          Dirección inet6: fe80::3a63:bbff:fea9:ad4e/64 Alcance:Enlace
+          ACTIVO DIFUSIÓN FUNCIONANDO MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:31663 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:23203 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:1000 
+          Bytes RX:33782142 (33.7 MB)  TX bytes:3581395 (3.5 MB)
+
+lo        Link encap:Bucle local  
+          Direc. inet:127.0.0.1  Másc:255.0.0.0
+          Dirección inet6: ::1/128 Alcance:Anfitrión
+          ACTIVO BUCLE FUNCIONANDO  MTU:65536  Métrica:1
+          Paquetes RX:171 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:171 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:0 
+          Bytes RX:11869 (11.8 KB)  TX bytes:11869 (11.8 KB)
+
+wlan0     Link encap:Ethernet  direcciónHW 2c:33:7a:42:4d:7f  
+          ACTIVO DIFUSIÓN MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:0 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:0 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:1000 
+          Bytes RX:0 (0.0 B)  TX bytes:0 (0.0 B)
+
